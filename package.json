@@ -1,0 +1,24 @@
+{
+  "name": "country-name-library",
+  "version": "1.0.0",
+  "description": "Get random country names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ap221882/country-name-library.git"
+  },
+  "keywords": [
+    "random",
+    "country",
+    "names"
+  ],
+  "author": "Ajay Pathak <ap221882@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ap221882/country-name-library/issues"
+  },
+  "homepage": "https://github.com/ap221882/country-name-library#readme"
+}
